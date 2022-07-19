@@ -36,13 +36,13 @@ Ambiguous terms can have a negative impact on the output:
 Machine translation systems differ in how they match and insert glossary terms.
 
 Strict exact term matching and insertion has many problems.
-
-With strict exact matching and insertion, more variants need to be listed in the glossary.
+With strict exact matching and insertion, many variants may need to be listed in the glossary.
+Even then, the correct variant may not be inserted.
 
 With some machine translation systems, term matching and insertion can handle common variants.
-- Morphology inflections
-- Casing forms
-- Spelling forms
+- Spelling variants
+- Uppercase and lowercase variants
+- Morphological inflections
 
 ## File formats
 
